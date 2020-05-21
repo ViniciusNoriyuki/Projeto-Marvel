@@ -1,0 +1,19 @@
+package br.com.marvel.sistema.criador.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class CriadorSaida {
+
+    private Long id;
+    private String nomeCriador;
+    private Integer idadeCriador;
+    private Integer qtdConteudo;
+
+}
