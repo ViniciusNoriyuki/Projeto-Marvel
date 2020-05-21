@@ -4,6 +4,7 @@ Requisitos:
 - APP em Spring boot.
 - Banco de dados em memória (H2).
 - JPA & Hibernate (Persistência).
+- Testes unitarios.
 - Todo o processo será implementado no formato ‘CRUD’.
 
 Entidades:
